@@ -1,0 +1,264 @@
+{
+  "categorias": [
+    {
+      "titulo": "Programação",
+      "link": "",
+      "cor": "#36AB17",
+      "borda": "#36AB17",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Guia DEFINITIVO de Aprendendo a Aprender | A maior BRONCA da sua vida",
+          "url": "https://www.youtube.com/watch?v=oUPaJxk6TZ0&t=527s"
+        },        
+        {
+          "titulo": "A Dor de Aprender | Que Cursos/Livros?",
+          "url": "https://www.youtube.com/watch?v=HEaIsKm-pao&t=94s"
+        },
+        {
+          "titulo": "Desvendando o CSS Grid na prática | Mayk Brito",
+          "url": "https://www.youtube.com/watch?v=HN1UjzRSdBk&t=1319s"
+        },
+        {
+          "titulo": "Manipulação de DOM com JavaScript, do zero, na prática | Masterclass #18",
+          "url": "https://www.youtube.com/watch?v=UftSB4DaRU4&t=831s"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "O que estudar antes de tentar aprender um Framework JavaScript? (React, Angular, Vue) #ImersaoReact",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI&t=2s"
+        },
+        {
+          "titulo": "Curso POO Teoria #01a - O que é Programação Orientada a Objetos",
+          "url": "https://www.youtube.com/watch?v=KlIL63MeyMY&t=1753s"
+        },
+        {
+          "titulo": "Desafio: 10 projetos rápidos para treinar Programação e conseguir um Emprego",
+          "url": "https://www.youtube.com/watch?v=fYR9L2ZmodM&t=306s"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "red",
+      "borda": "red",
+      "videos": [
+        {
+          "titulo": "O Senhor dos Anéis - O Retorno do Rei",
+          "url": "https://www.youtube.com/watch?v=GbR_udDNldI"
+        },
+        {
+          "titulo": "Gladiador",
+          "url": "https://www.youtube.com/watch?v=owK1qxDselE"
+        },
+        {
+          "titulo": "X-Men: Dias de um futuro esquecido",
+          "url": "https://www.youtube.com/watch?v=pK2zYHWDZKo"
+        },
+        {
+          "titulo": "Star Wars Episódio II: O Ataque dos Clones",
+          "url": "https://www.youtube.com/watch?v=gYbW1F_c9eM"
+        },
+        {
+          "titulo": "Star Wars Episódio III: A Vingança dos Sith",
+          "url": "https://www.youtube.com/watch?v=5UnjrG_N8hU"
+        },
+        {
+          "titulo": "Rogue One: Uma História Star Wars",
+          "url": "https://www.youtube.com/watch?v=frdj1zb9sMY"
+        },
+        {
+          "titulo": "Vingadores: Ultimato",
+          "url": "https://www.youtube.com/watch?v=TcMBFSGVi1c&t=37s"
+        },
+        {
+          "titulo": "Princesa Mononoke",
+          "url": "https://www.youtube.com/watch?v=5iet4AxBK1U"
+        },
+        {
+          "titulo": "Your Name",
+          "url": "https://www.youtube.com/watch?v=nLhKXh6sJtk"
+        },
+        {
+          "titulo": "Detroit Metal City (Live Action)",
+          "url": "https://www.youtube.com/watch?v=myeIP0Z1_-U"
+        },
+        {
+          "titulo": "Coração de Dragão",
+          "url": "https://www.youtube.com/watch?v=Volt1twIb84"
+        },
+        {
+          "titulo": "A História Sem Fim",
+          "url": "https://www.youtube.com/watch?v=72UC0PsH0OU"
+        },
+        {
+          "titulo": "Conta Comigo",
+          "url": "https://www.youtube.com/watch?v=zSe1j3penIQ"
+        },
+        {
+          "titulo": "The Wonders - O Sonho Não Acabou",
+          "url": "https://www.youtube.com/watch?v=Vs_h7YdIe_k"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "yellow",
+      "borda": "yellow",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Game of Thrones",
+          "url": "https://www.youtube.com/watch?v=gcTkNV5Vg1E"
+        },
+        {
+          "titulo": "The Mandalorian",
+          "url": "https://www.youtube.com/watch?v=XmI7WKrAtqs"
+        },
+        {
+          "titulo": "Star Wars: The Clone Wars",
+          "url": "https://www.youtube.com/watch?v=ZLW2jkd6E7g"
+        },
+        {
+          "titulo": "The Last Kingdom",
+          "url": "https://www.youtube.com/watch?v=WxPApTGWwas"
+        },
+        {
+          "titulo": "The Boys",
+          "url": "https://www.youtube.com/watch?v=tcrNsIaQkb4"
+        },
+        {
+          "titulo": "Demolidor",
+          "url": "https://www.youtube.com/watch?v=jAy6NJ_D5vU"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#2A7AE4",
+      "borda": "#2A7AE4",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "The Legend of Zelda: Breath of the Wild",
+          "url": "https://www.youtube.com/watch?v=zw47_q9wbBE"
+        },
+        {
+          "titulo": "FINAL FANTASY XV",
+          "url": "https://www.youtube.com/watch?v=IiI7SMQA59Q"
+        },
+        {
+          "titulo": "Sequel to The Legend of Zelda: Breath of the Wild",
+          "url": "https://www.youtube.com/watch?v=3fr1Z07AV00"
+        },
+        {
+          "titulo": "KINGDOM HEARTS III",
+          "url": "https://www.youtube.com/watch?v=2VawSnaxtSI"
+        },
+        {
+          "titulo": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+          "url": "https://www.youtube.com/watch?v=h6dsxCfdZlk"
+        },
+        {
+          "titulo": "Horizon Zero Dawn",
+          "url": "https://www.youtube.com/watch?v=Fkg5UVTsKCE"
+        },
+        {
+          "titulo": "Resident Evil 2 (Remake)",
+          "url": "https://www.youtube.com/watch?v=xtxJtQa6VSw"
+        }, 
+        {
+          "titulo": "FINAL FANTASY VII Remake",
+          "url": "https://www.youtube.com/watch?v=xOA5GwRcBks"
+        },
+        {
+          "titulo": "Horizon Forbidden West",
+          "url": "https://www.youtube.com/watch?v=Lq594XmpPBg"
+        },
+        {
+          "titulo": "Xenoblade Chronicles Definitive Edition",
+          "url": "https://www.youtube.com/watch?v=tVfMySwUibQ"
+        },
+        {
+          "titulo": "Xenoblade Chronicles 2",
+          "url": "https://www.youtube.com/watch?v=6tQDoCrQIek"
+        }
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "orange",
+      "borda": "orange",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Fullmetal Alchemist Brotherhood",
+          "url": "https://www.youtube.com/watch?v=KMZBauH47Jo"
+        },
+        {
+          "titulo": "Berserk",
+          "url": "https://www.youtube.com/watch?v=ss2vdlgfsFA"
+        },
+        {
+          "titulo": "Mobile Suit Gundam 00",
+          "url": "https://www.youtube.com/watch?v=rM3ZhrKmo0s"
+        },
+        {
+          "titulo": "Akagami no Shirayuki-hime (Snow White with the Red Hair",
+          "url": "https://www.youtube.com/watch?v=YKnDzLHZHkU"
+        },
+        {
+          "titulo": "DEVILMAN crybaby",
+          "url": "https://www.youtube.com/watch?v=ww06yGPM7Kc"
+        },
+        {
+          "titulo":"Akatsuki no Yona",
+          "url": "https://www.youtube.com/watch?v=PbTDo1bWgms"
+        },
+        {
+          "titulo": "Shingeki no Kyojin (Attack On Titan)",
+          "url": "https://www.youtube.com/watch?v=6scZ1qj2w38"
+        },
+        {
+          "titulo": "Neon Genesis Evangelion",
+          "url": "https://www.youtube.com/watch?v=nU21rCWkuJw"
+        },
+        {
+          "titulo": "Clannad",
+          "url": "https://www.youtube.com/watch?v=XXDxZ0YGWG8"
+        },
+        {
+          "titulo": "Clannad ~ After Story",
+          "url": "https://www.youtube.com/watch?v=RateoYRQ6jQ"
+        },
+        {
+          "titulo": "Shigatus wa Kimi no Uso (Your Lie in April)",
+          "url": "https://www.youtube.com/watch?v=lkdi6eK05OA"
+        },
+        {
+          "titulo": "Castlevania",
+          "url": "https://www.youtube.com/watch?v=Kbb8zPQBmOw"
+        },
+        {
+          "titulo": "Cardcaptor Sakura: Clear Card",
+          "url": "https://www.youtube.com/watch?v=sbwT8yJjtUQ"
+        }
+      ]
+    }
+  ]
+}
