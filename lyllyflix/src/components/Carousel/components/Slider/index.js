@@ -25,6 +25,27 @@ const Container = styled.ul`
   .slick-next {
     right: 16px;
   }
+  .slick-slider {
+      display: flex;
+  }
+  .slick-slide {
+      flex: 1 1 0px;
+      transition: 300ms ease 100ms;
+  }
+  .slick-slide:after {
+      content: "";
+      display: block;
+  }
+  .slick-slider:hover .slick-slide {
+      transform: translateX(-5%);
+  }
+  .slick-slide:hover ~ .slick-slide {
+      transform: translateX(5%);
+  }
+  .slick-slider .slick-slide:hover {
+      transform: scale(1.2);
+  }
+
 `;
 
 export const SliderItem = styled.li`
@@ -34,7 +55,7 @@ export const SliderItem = styled.li`
     width: 298px;
     height: 197px;
     object-fit: cover;
-  }
+    }
 `;
 
 
@@ -47,6 +68,10 @@ const Slider = ({ children }) => (
       centerMode: false,
       variableWidth: true,
       adaptiveHeight: true,
+      draggable: true,
+      useTransform: true,
+      slidesToScroll: 1,
+      slidesToShow: 4
     }}
     >
       {children}

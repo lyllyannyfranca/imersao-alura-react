@@ -42,14 +42,6 @@ export const VideoCardList = styled.ul`
   display: flex;
   overflow-x: auto;
   flex-direction: row;
-
-  ::-webkit-scrollbar {
-    width: 0px;
-  }
-
-  ::-webkit-scrollbar-track-piece {
-    background-color: transparent;
-  }
   
   li {
     margin-right: 16px;
