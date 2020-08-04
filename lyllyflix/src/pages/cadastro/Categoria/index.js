@@ -31,7 +31,9 @@ function CadastroCategoria() {
 
     useEffect(() => {
         console.log('e ae povo');
-        const URL = 'http://localhost:8080/categorias';
+        const URL = window.location.hostname.includes('localhost')
+        ? 'http://localhost:8080/categorias'
+        : 'https://lyllyflix.herokuapp.com/categorias';
 
         fetch(URL)
             .then(async (serverResponse) => {
