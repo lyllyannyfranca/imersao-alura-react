@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Programação",
+            "descricao": "Vídeos sobre programação",
+            "cor": "#36AB17"
+        },
+        {
+            "id": 2,
+            "nome": "Filmes",
+            "descricao": "Vídeos sobre filmes",
+            "cor": "#ff0000"
+        }
+    ]
+}
